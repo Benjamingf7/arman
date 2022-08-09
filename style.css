@@ -1,0 +1,16 @@
+body{
+    background-color: #C21E56;
+    color: burlywood;
+    padding: 10px;
+}
+
+#image{
+    float: left;
+}
+
+#description{
+    float: right;
+}
+#reviews{
+    clear: both;
+}
